@@ -1,0 +1,23 @@
+{
+  "name": "ngui-dropdown",
+  "version": "0.0.1",
+  "authors": [
+    "Boris Okunskiy <boris@okunskiy.name>"
+  ],
+  "description": "Dropdown for Angular",
+  "main": "ngui.dropdown.js",
+  "keywords": [
+    "angular",
+    "ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".idea",
+    "*.iml",
+    "test",
+    "tests"
+  ]
+}
