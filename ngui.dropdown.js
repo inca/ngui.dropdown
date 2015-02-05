@@ -8,6 +8,8 @@
 
       restrict: 'A',
 
+      scope: true,
+
       controller: function() {
 
         var ctrl = this;
